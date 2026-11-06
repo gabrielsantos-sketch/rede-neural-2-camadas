@@ -45,7 +45,7 @@ Loss = Σ (ŷ - y)²
  
 4. Atualização dos Pesos (Gradient Descent)
 
-* Os pesos são atualizados com taxa de aprendizado 1e-4:
+* Os pesos são atualizados com taxa de aprendizado 1e -4:
 
 W₁ = W₁ - 0.0001 · ∇W₁
 W₂ = W₂ - 0.0001 · ∇W₂
